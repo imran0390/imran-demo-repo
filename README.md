@@ -1,2 +1,3 @@
 # imran-demo-repo
-demo repositary on ubuntu
+demo repository on ubuntu
+author-Imran
